@@ -1,4 +1,4 @@
-export const hostUrl = `http://localhost:3000`;
+export const hostUrl = "https://k-market-vendor-demo.vercel.app"; //`http://localhost:3000`;
 
 export const homeRoute = "/";
 
